@@ -1,4 +1,6 @@
 # GN
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffoogao%2Fgoogle-gn.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffoogao%2Fgoogle-gn?ref=badge_shield)
+
 
 GN is a meta-build system that generates build files for
 [Ninja](https://ninja-build.org).
@@ -216,3 +218,7 @@ desirable.
 
 There have been discussions about adding a versioning scheme with some
 guarantees about backwards-compatibility, but nothing has yet been implemented.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffoogao%2Fgoogle-gn.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffoogao%2Fgoogle-gn?ref=badge_large)
